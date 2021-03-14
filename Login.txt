@@ -1,0 +1,4 @@
+{"username":"admin","password":"pkpkpkpk","type":"admin","status":"active"}
+{"username":"imrul.afnan@gmail.com","password":"klklklkl","type":"customer","status":"active"}
+{"username":"imrul.afnan198@gmail.com","password":"asdfasdf","type":"seller","status":"requested"}
+{"username":"imrul.afnan19ases8@gmail.com","password":"asesases","type":"deliveryman","status":"active"}

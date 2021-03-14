@@ -1,0 +1,3 @@
+{"firstname":"Fahmee","lastname":"Al","gender":"male","email":"fahmee.al@gmail.com","image":"Screenshot (16).png","location":"dhaka","phone":"01794233952"}
+{"firstname":"Afnan","lastname":"Imrul","gender":"male","email":"afnan@gmail.com","image":"Screenshot (16).png","location":"dhaka","phone":"01794238752"}
+{"firstname":"Zahid","lastname":"Khan","gender":"male","email":"zahid@gmail.com","image":"Screenshot (16).png","location":"dhaka","phone":"01794233092"}
